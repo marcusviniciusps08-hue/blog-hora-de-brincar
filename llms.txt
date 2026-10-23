@@ -1,20 +1,21 @@
 # Brincar em Pauta
 
-> Guias, comparativos e reviews de brinquedos, hobbies e criatividade, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de brinquedos, hobbies e criatividade, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 brincadeiras e colecionáveis até R$ 30: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/brincadeiras-e-colecionaveis-ate-30/)
-- [4 casinhas, mesinhas e faz de conta até R$ 100: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/casinhas-mesinhas-e-faz-de-conta-ate-100/)
-- [4 jogos, quebra-cabeças e educativos até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/jogos-quebra-cabecas-e-educativos-ate-60/)
-- [4 patins, patinetes e lazer ao ar livre até R$ 90: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/patins-patinetes-e-lazer-ao-ar-livre-ate-90/)
-- [5 pelúcias, bonecos e carrinhos até R$ 70: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/pelucias-bonecos-e-carrinhos-ate-70/)
+- [5 brincadeiras e colecionáveis até R$ 30: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/brincadeiras-e-colecionaveis-ate-30/)
+- [4 casinhas, mesinhas e faz de conta até R$ 100: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/casinhas-mesinhas-e-faz-de-conta-ate-100/)
+- [4 jogos, quebra-cabeças e educativos até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/jogos-quebra-cabecas-e-educativos-ate-60/)
+- [3 outros produtos até R$ 70: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/outros-produtos-ate-70/)
+- [4 patins, patinetes e lazer ao ar livre até R$ 90: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/patins-patinetes-e-lazer-ao-ar-livre-ate-90/)
+- [5 pelúcias, bonecos e carrinhos até R$ 70: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/top/pelucias-bonecos-e-carrinhos-ate-70/)
 
 ## Guias
 - [Como escolher brincadeira: o que olhar na ficha antes de gastar (de R$ 18 a R$ 54,44)](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/guia/como-escolher-brincadeira/)
-- [Como escolher item de faz de conta: o que olhar na ficha antes de gastar (de R$ 64,90 a R$ 158,90)](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/guia/como-escolher-item-de-faz-de-conta/)
-- [Como escolher jogo: o que olhar na ficha antes de gastar (de R$ 19,25 a R$ 133,39)](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/guia/como-escolher-jogo/)
+- [Como escolher item de faz de conta: o que olhar na ficha antes de gastar (de R$ 56,02 a R$ 158,90)](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/guia/como-escolher-item-de-faz-de-conta/)
+- [Como escolher jogo: o que olhar na ficha antes de gastar (de R$ 19,25 a R$ 125)](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/guia/como-escolher-jogo/)
 - [Como escolher item de movimento: o que olhar na ficha antes de gastar (de R$ 48,40 a R$ 589,90)](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/guia/como-escolher-item-de-movimento/)
 - [Como escolher pelúcia ou boneco: o que olhar na ficha antes de gastar (de R$ 24,87 a R$ 99,99)](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/guia/como-escolher-pelucia-ou-boneco/)
 
@@ -43,6 +44,9 @@ Contém links de afiliado Mercado Livre.
 - [Jogo De Palavras Divertido Adedonha Caça Palavras Stop: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/jogo-de-palavras-divertido-adedonha-caca-palavras-stop-9a2276/)
 - [Jogo Detetive Com Aplicativo Estrela em Português em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/jogo-detetive-com-aplicativo-estrela-em-portugues-b41c81/)
 - [Jogo Tapa Certo Estrela - Estrela: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/jogo-tapa-certo-estrela-estrela-04d56f/)
+- [Caminhão Dinossauro Engolidor de Carrinhos - Com Kit: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/caminhao-dinossauro-engolidor-de-carrinhos-com-kit-f7cfa3/)
+- [Kit 48 Carrinhos com Fricção de Lata Metálica em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/kit-48-carrinhos-com-friccao-de-lata-metalica-506f97/)
+- [Kit com 6/8 Carrinhos Com e Sem Fricção: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/kit-com-6-8-carrinhos-com-e-sem-friccao-5b543f/)
 - [Atentu patinete infantil menina menino adulto adolescente dobrável em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/atentu-patinete-infantil-menina-menino-adulto-adolescente-dobravel-a6b218/)
 - [Bicicleta Infantil De Equilíbrio Sem Pedal Andador 4: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/bicicleta-infantil-de-equilibrio-sem-pedal-andador-4-8799c3/)
 - [Cama Elástica Infantil JustFun 1,8 m com Rede em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-hora-de-brincar/review/cama-elastica-infantil-justfun-1-8-m-com-rede-0a4df9/)
